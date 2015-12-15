@@ -4,7 +4,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mvssolution.com" # the base hostname & protocol for your site
 
-email: madhavvyasit@gmail.com
+email1: contact@mvssolution.com
+email2: madhavvyasit@gmail.com
+
 phone_number: +91 9987232642
 
 # Build settings
